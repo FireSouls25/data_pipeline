@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.5.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.5.5">
   <diagram name="Page-1" id="BY_Xbc96jQF-oOQMzPwg">
-    <mxGraphModel>
+    <mxGraphModel dx="1144" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4BpXBthjeUF_mO9lDdaV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Origenes de datos&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="320" x="80" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4BpXBthjeUF_mO9lDdaV-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ingesta" vertex="1">
+          <mxGeometry height="80" width="320" x="420" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4BpXBthjeUF_mO9lDdaV-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Procesamiento" vertex="1">
+          <mxGeometry height="80" width="320" x="760" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4BpXBthjeUF_mO9lDdaV-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Almacenamiento" vertex="1">
+          <mxGeometry height="80" width="320" x="1100" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4BpXBthjeUF_mO9lDdaV-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Visualizacion" vertex="1">
+          <mxGeometry height="80" width="320" x="1440" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4BpXBthjeUF_mO9lDdaV-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Moviles" vertex="1">
+          <mxGeometry height="50" width="60" x="80" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4BpXBthjeUF_mO9lDdaV-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="GPS conductores" vertex="1">
+          <mxGeometry height="50" width="80" x="150" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4BpXBthjeUF_mO9lDdaV-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Pagos digitales" vertex="1">
+          <mxGeometry height="50" width="80" x="240" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="4BpXBthjeUF_mO9lDdaV-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Base de datos interna" vertex="1">
+          <mxGeometry height="50" width="100" x="80" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="4BpXBthjeUF_mO9lDdaV-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Apache kafka" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
